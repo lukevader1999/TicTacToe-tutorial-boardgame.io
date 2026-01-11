@@ -1,0 +1,19 @@
+{
+  "name": "mytictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "browserslist": "defaults and supports async-functions",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boardgame.io": "^0.50.2"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
